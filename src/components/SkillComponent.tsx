@@ -1,5 +1,5 @@
-import PlaywrightIcon from "../../public/img_experience/Playwrite.png";
-import JUnitIcon from "../../public/img_experience/JUnit.png";
+import PlaywrightIcon from "../public/img_experience/Playwrite.png";
+import JUnitIcon from "../public/img_experience/JUnit.png";
 
 import React from 'react';
 import { 
