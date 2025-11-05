@@ -1,0 +1,17 @@
+[
+  { "skill": "Selenium", "icon": "SiSelenium" },
+  { "skill": "Playwright", "icon": "PlaywrightIcon" },
+  { "skill": "Cypress", "icon": "SiCypress" },
+  { "skill": "Java", "icon": "FaJava" },
+  { "skill": "Python", "icon": "FaPython" },
+  { "skill": "JavaScript", "icon": "SiJavascript" },
+  { "skill": "PHP", "icon": "SiPhp" },
+  { "skill": "TypeScript", "icon": "SiTypescript" },
+  { "skill": "JUnit", "icon": "JUnitIcon" },
+  { "skill": "TestNG", "icon": "SiTestng" },
+  { "skill": "MySQL", "icon": "SiMysql" },
+  { "skill": "Rest Assured", "icon": "FaGear" },
+  { "skill": "Git", "icon": "FaGitAlt" },
+  { "skill": "Github", "icon": "FaGithub" },
+  { "skill": "Jenkins", "icon": "FaJenkins" }
+]

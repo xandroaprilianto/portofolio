@@ -1,0 +1,29 @@
+[
+  {
+    "title": "API Mandatory Test - Playwright Framework",
+    "category":"featured-projects",
+    "description": "This project aims to perform API request body testing. It focuses on validating API body values ​​to ensure they meet specified requirements and function correctly.",
+    "image": "Playwrite.png",
+    "link_detail": "#",
+    "link_source": "https://github.com/xandroaprilianto/playwright-api-mandatory-validation-tes",
+    "skill": ["API", "JavaScript", "Playwright", "Automation Test"]
+  },
+  {
+    "title": "SwagsLab - Playwright Framework",
+    "category":"practice-projects",
+    "description": "This project aims to study and implement a Robot framework. It focuses on automating test cases for the Swagslab web application using the Playwright Framework, a popular open-source test automation framework.",
+    "image": "Playwrite.png",
+    "link_detail": "#",
+    "link_source": "https://github.com/xandroaprilianto/SwagsLab---Playwright",
+    "skill": ["Web Automation" ,"Java", "Playwright", "Automation Test", "SwagsLab"]
+  },
+  {
+    "title": "SauceDemo - Robot Framework",
+    "category":"practice-projects",
+    "description": "This project aims to study and implement a Robot framework. It focuses on automating test cases for the SauceDemo web application using the Robot Framework, a popular open-source test automation framework.",
+    "image": "robotframework-svgrepo-com.png",
+    "link_detail": "#",
+    "link_source": "https://github.com/xandroaprilianto/First-Simple-RobotFramework",
+    "skill": ["Web Automation", "Python", "Robot Framework", "Automation Test", "Sauce Demo"]
+  }
+]

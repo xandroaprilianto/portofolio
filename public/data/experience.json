@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Software Tester",
+    "company":"PT Berlian Sistem Informasi",
+    "location":"Yogyakarta, Indonesia",
+    "image":"logo-bsi.svg",
+    "colorBG":"#FFFFFF",
+    "description": "",
+    "date":"November 2024 – September 2025",
+    "skill": ["Manual Tester", "API Test", "Mobile Test", "Automation Katalon", "Bug Report", "Regression", "MySQL"],
+    "points": [
+        "Actively participated in Scrum Agile ceremonies, including Daily Stand-ups, Sprint Planning, Sprint Review, and Retrospectives to ensure continuous delivery and improvement.",
+        "Conducted manual testing, including writing detailed test cases, executing functional and regression tests, and validating results against requirements.",
+        "Designed and built automated test cases using Katalon Studio to improve testing efficiency and coverage across web applications.",
+        "Performed API testing using Postman, validating request/response integrity, status codes, and business logic through various endpoints."
+    ]
+  },
+  {
+    "title": "Software Quality Assurance",
+    "company":"PT Selalu Siap Solusi (KiriminAja)",
+    "location":"Yogyakarta, Indonesia",
+    "image":"logo-kiriminaja.webp",
+    "colorBG":"#FFFFFF",
+    "description": "",
+    "date":"April 2022 - November 2024",
+    "skill": ["Manual Tester", "API Test", "Mobile Test", "Selenium Java", "Bug Report", "Regression", "MySQL"],
+    "points": [
+        "Collaboration with Developers - Participated in regular Product Review meetings to ensure alignment between development and QA. - Reported bugs and issues in a clear and structured manner, promoting fast resolution and continuous product improvement.",
+        "Quality Assurance Responsibilities - Initiated and documented detailed Test Cases to cover various functional and edge-case scenarios. - Coordinated flow testing sessions with developers to ensure early detection of integration issues.",
+        "API Testing - Utilized Postman and Insomnia to perform API testing, including executing API calls and validating responses against expected results and schema.",
+        "Manual Testing - Developed structured test cases based on requirements and user stories. - Executed manual test scenarios across multiple platforms and browsers. - Reported detailed feedback and identified issues to the development team. - Conducted re-testing after fixes were implemented to ensure resolution and prevent regression.",
+        "Web Test Automation (Selenium Java with Gherkin) - Assisted Lead QA in researching and establishing automation testing strategies. - Supported internal QA training by helping educate team members on Java Selenium automation fundamentals. - Developed and maintained automation test scripts using Selenium Java and Gherkin for behavior-driven testing. - Regularly executed automated test cases and generated test reports using Allure. - Maintained automation test suites and provided updates and reports to the Tech Team."
+    ]
+  },
+  {
+    "title": "Software Implementation",
+    "company":"PT Global Medika Digitama",
+    "location":"Surabaya, Indonesia",
+    "image":"logo-medify.png",
+    "colorBG":"#FFFFFF",
+    "description": "",
+    "date":"January 2021 – January 2022",
+    "skill": ["Manual Tester", "Software Implementation", "Bug Report", "User Training", "System Documentation"],
+    "points": [
+      "Conducted training sessions for hospital staff and clients on how to use the Web-based Electronic Medical Record (ERM) application, ensuring smooth adoption and understanding of key system features.",
+      "Collected and documented user complaints, feedback, and enhancement requests, then communicated them clearly to the development team for further improvement.",
+      "Performed manual testing on newly developed or fixed features to ensure they met functional and usability requirements before deployment.",
+      "Designed and executed User Acceptance Testing (UAT) based on real-world usage scenarios to validate the system from an end-user perspective."
+    ]
+  },
+  {
+    "title": "Intern System Analyst, Quality Assurance, and Technical Writer",
+    "company":"PT Javan Cipta Solusi",
+    "location":"Yogyakarta, Indonesia",
+    "image":"logo-javan.id",
+    "colorBG":"#FFFFFF",
+    "description": "",
+    "date":"Oct 2020 – December 2020",
+    "skill": ["BPMN", "Data Structures", "Manual Tester", "Technical Writer", "Bug Report"],
+    "points": [
+        "Assisted System Analyst in designing ERD (Entity Relationship Diagram), DFD (Data Flow Diagram), Flowcharts, and BPMN to support system planning and development.",
+        "Created comprehensive documentation including User Requirement Documents, Functional Specifications, and other technical materials to align development with client expectations.",
+        "Translated business needs into detailed development tasks for programmers, ensuring clarity and alignment with user requirements.",
+        "Performed thorough manual testing on frontend components to validate functionality, usability, and responsiveness before deployment.",
+        "Actively collaborated with cross-functional stakeholders, including clients, developers, and project managers, to ensure smooth communication and alignment throughout the project lifecycle.",
+        "Participated in Sprint Reviews to present progress to clients and gather feedback for iterative improvement in Agile development environments.",
+        "Developed and executed User Acceptance Testing (UAT) scenarios to ensure final product met business requirements and client satisfaction before go-live."
+    ]
+  }
+]
