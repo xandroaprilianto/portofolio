@@ -29,7 +29,7 @@ const CardProject: React.FC<CardProjectProps> = ({
       />
 
      
-      <div className="p-4 flex-grow flex flex-col">
+      <div className="p-4 grow flex flex-col">
         <span className="text-xs uppercase font-semibold text-blue-600 dark:text-blue-400 mb-1">
           {category.replace("-", " ")}
         </span>
